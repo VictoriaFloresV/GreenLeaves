@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: center;
+  background-color: #00ff21;
+  margin-bottom: 25px;
+  color: #ffffff;
+  height: 110px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px black;
+}
+
+  .header h1 {
+    font-size: 52px;
+    font-family: 'Baskerville Old Face';
+    margin-top: 15px;
+  }
+
+  .header img {
+    height: 130px;
+    margin-top: -78px;
+    margin-left: 500px;
+  }

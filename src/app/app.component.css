@@ -1,0 +1,8 @@
+
+.contenido {
+  margin: 82px auto 82px;
+  padding: 0 16px;
+  max-width: 860px;
+  flex-direction: column;
+}
+
